@@ -1,13 +1,18 @@
-{ "name"         : "paulaandnuno"
-, "subdomain"    : "paulaandnuno"
-, "version"      : "0.0.1"
-, "dependencies" : 
-  { "flatiron"   : "0.1.x"
-  , "union"      : "0.3.x"
-  , "ecstatic"   : "0.1.x"
-  , "socket.io"  : "0.9.x"
-  , "plates"     : "0.4.x"
+{
+  "name": "paulaandnuno",
+  "subdomain": "paulaandnuno",
+  "version": "0.0.1-4",
+  "dependencies": {
+    "flatiron": "0.1.x",
+    "union": "0.3.x",
+    "ecstatic": "0.1.x",
+    "socket.io": "0.9.x",
+    "plates": "0.4.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "0.6.x"
   }
-, "scripts"      : { "start" : "node app.js" }
-, "engines"      : { "node"  : "0.6.x" }
 }
