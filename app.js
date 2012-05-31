@@ -7,8 +7,8 @@ server.run = function run() {
   environment.initialize(function initialize(app) {
     environment.start(app, function () {
       app.get("/", function () {
-        res.writeHead(301, {'Location': '/en'});
-        res.end();
+        this.res.writeHead(301, {'Location': '/en'});
+        this.res.end();
       });
       app.get("/:lang", root.index);
     });

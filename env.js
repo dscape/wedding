@@ -6,7 +6,7 @@ var flatiron     = require('flatiron')
 
 environment.initialize = function initialize(callback) {
   app.use(flatiron.plugins.http, 
-    { "before" : [ ecstatic(__dirname + '/public') ] });
+    { "before" : [ ecstatic(__dirname + '/public', {autoIndex: false}) ] });
 
   app.get       = app.router.get;
   app.put       = app.router.put;
