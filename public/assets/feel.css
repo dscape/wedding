@@ -1,0 +1,363 @@
+.feel-modern #comments,.feel-modern .display-page {
+  border-radius: 0;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(0,0,0,.25)
+}
+.feel-modern #comments .widget-event,.feel-modern .display-page .widget-event {
+  margin: 0;
+  border-width: 1px 0;
+  box-shadow: none
+}
+.feel-modern #comments .widget-text-paragraph,.feel-modern .display-page .widget-text-paragraph {
+  padding: 12px 0
+}
+.feel-modern .last-insert {
+  border-radius: 0
+}
+.feel-modern .show-page .empty-item [data-empty-if-target],.feel-modern .show-page .empty-item [data-target],.feel-modern .widget:not(.header-widget) .default-value {
+  color: #bbb!important;
+  text-shadow: 0 2px 0 #fff!important
+}
+.feel-modern .show-page .widget-event:not(.empty-item) [data-target],.feel-modern .widget.widget-event:not(.empty-item) .default-value {
+  text-shadow: none!important
+}
+.feel-modern .header-widget .default-value {
+  background: rgba(255,255,255,.15);
+  padding: 5px;
+  border: 3px dashed rgba(255,255,255,.35);
+  border-radius: 3px
+}
+.feel-modern .header-widget .default-value:hover {
+  background: rgba(255,255,255,.25);
+  border: 3px dashed rgba(255,255,255,.55)
+}
+.feel-modern .widget-video-soundcloud,.feel-modern .widget-video-vimeo,.feel-modern .widget-video-youtube {
+  padding: 20px 0
+}
+.feel-modern .widget-video-soundcloud iframe,.feel-modern .widget-video-vimeo iframe,.feel-modern .widget-video-youtube iframe {
+  margin-bottom: -5px
+}
+.feel-modern .widget-video-soundcloud .framed-image-container,.feel-modern .widget-video-vimeo .framed-image-container,.feel-modern .widget-video-youtube .framed-image-container {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,.25);
+  margin: 0 auto;
+  width: 630px
+}
+.feel-modern .widget-link {
+  padding: 5px 0
+}
+.feel-modern .widget-link .content {
+  margin: 10px 34px;
+  border-radius: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,.17)
+}
+.feel-modern .widget-link .content .wrapper {
+  margin-top: -6px;
+  background: url(/assets/images/url.png) 0 5px no-repeat;
+  padding-left: 24px
+}
+.feel-modern .widget-link .content.no-thumbnail {
+  padding-left: 20px
+}
+.feel-modern .widget-link .content .host {
+  font-size: .9em
+}
+.feel-modern .widget-text-bio {
+  box-shadow: 0 -25px 0 -23px rgba(0,0,0,.3)
+}
+.feel-modern .widget-event {
+  border-radius: 0;
+  border: none
+}
+.feel-modern .bg-concrete {
+  background-image: url(/assets/images/concrete.jpg)
+}
+.feel-modern .widget-header-text.var-feel-modern-text-standard {
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3)
+}
+.feel-modern .widget-header-text.var-feel-modern-text-standard .colored-background {
+  background-image: url(/assets/images/noise2.png);
+  padding: 3em 3.5em
+}
+.feel-modern .widget-header-text.var-feel-modern-text-standard .theme-title {
+  line-height: 1.1;
+  word-wrap: break-word
+}
+.feel-modern .widget-header-text.var-feel-modern-text-standard .theme-subtitle {
+  margin-top: 15px;
+  line-height: 1.1;
+  word-wrap: break-word
+}
+.feel-modern .widget-header-text.var-feel-modern-text-standard .top-line {
+  height: 1px;
+  background: RGBA(255,255,255,.3);
+  position: relative;
+  width: 100%;
+  margin-bottom: -1px;
+  z-index: 5
+}
+.feel-modern .widget-header-text.var-feel-modern-text-subtitle-top {
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3)
+}
+.feel-modern .widget-header-text.var-feel-modern-text-subtitle-top .colored-background {
+  background-image: url(/assets/images/noise2.png);
+  padding: 3em 3.5em
+}
+.feel-modern .widget-header-text.var-feel-modern-text-subtitle-top .theme-title {
+  line-height: 1.1;
+  word-wrap: break-word
+}
+.feel-modern .widget-header-text.var-feel-modern-text-subtitle-top .theme-subtitle {
+  margin-bottom: 15px;
+  line-height: 1.1;
+  word-wrap: break-word
+}
+.feel-modern .widget-header-text.var-feel-modern-text-subtitle-top .top-line {
+  height: 1px;
+  background: RGBA(255,255,255,.3);
+  position: relative;
+  width: 100%;
+  margin-bottom: -1px;
+  z-index: 5
+}
+.feel-modern .theme-subtitle,.feel-modern .theme-title {
+  color: #fff
+}
+.feel-modern .theme-p {
+  color: #5e5e5e
+}
+.feel-modern .widget-link .content {
+  background: #f1f1f1
+}
+.feel-modern .widget-event {
+  background: #5e5e5e
+}
+.feel-modern .widget-event .theme-p {
+  color: #fff
+}
+.feel-modern .widget-event .theme-p a {
+  color: #c1e0ff;
+  text-decoration: underline
+}
+.feel-modern .widget-event label {
+  color: #fff
+}
+.feel-modern .widget-event.hover {
+  background: #8e8e84
+}
+.feel-modern .swatch-01-dark-blue .colored-background {
+  background: #26a4e5
+}
+.feel-modern .swatch-01-dark-blue .theme-p-title {
+  color: #26a4e5
+}
+.feel-modern .swatch-01-dark-blue .theme-small-title {
+  color: #26a4e5
+}
+.feel-modern .swatch-01-dark-blue .widget-event .theme-p-title {
+  color: rgb(50.622%,79.293%,94.084%)
+}
+.feel-modern .swatch-01-dark-blue>.swatch-thumbnail {
+  background: #26a4e5
+}
+.feel-modern .swatch-02-blue .colored-background {
+  background: #4bcaff
+}
+.feel-modern .swatch-02-blue .theme-p-title {
+  color: #4bcaff
+}
+.feel-modern .swatch-02-blue .theme-small-title {
+  color: #4bcaff
+}
+.feel-modern .swatch-02-blue>.swatch-thumbnail {
+  background: #4bcaff
+}
+.feel-modern .swatch-02-blue .widget-event .theme-p-title {
+  color: rgb(69.412%,90.993%,100%)
+}
+.feel-modern .swatch-03-turquoise .colored-background {
+  background: #17cca8
+}
+.feel-modern .swatch-03-turquoise .theme-p-title {
+  color: #17cca8
+}
+.feel-modern .swatch-03-turquoise .theme-small-title {
+  color: #17cca8
+}
+.feel-modern .swatch-03-turquoise .widget-event .theme-p-title {
+  color: rgb(36.211%,92.808%,81.551%)
+}
+.feel-modern .swatch-03-turquoise>.swatch-thumbnail {
+  background: #17cca8
+}
+.feel-modern .swatch-04-dark-green .colored-background {
+  background: #0fbd48
+}
+.feel-modern .swatch-04-dark-green .theme-p-title {
+  color: #0fbd48
+}
+.feel-modern .swatch-04-dark-green .theme-small-title {
+  color: #0fbd48
+}
+.feel-modern .swatch-04-dark-green>.swatch-thumbnail {
+  background: #0fbd48
+}
+.feel-modern .swatch-04-dark-green .widget-event .theme-p-title {
+  color: #42f07b
+}
+.feel-modern .swatch-05-green .colored-background {
+  background: #98cc46
+}
+.feel-modern .swatch-05-green .theme-p-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-05-green .theme-small-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-05-green .widget-event .theme-p-title {
+  color: rgb(77.065%,88.644%,58.807%)
+}
+.feel-modern .swatch-05-green>.swatch-thumbnail {
+  background: #98cc46
+}
+.feel-modern .swatch-06-light-orange .colored-background {
+  background: #ffaa4f
+}
+.feel-modern .swatch-06-light-orange .theme-p-title {
+  color: #828282
+}
+.feel-modern .swatch-06-light-orange .theme-small-title {
+  color: #828282
+}
+.feel-modern .swatch-06-light-orange .widget-event .theme-p-title {
+  color: rgb(100%,85.985%,70.98%)
+}
+.feel-modern .swatch-06-light-orange>.swatch-thumbnail {
+  background: #ffaa4f
+}
+.feel-modern .swatch-07-orange .colored-background {
+  background: #ff6d00
+}
+.feel-modern .swatch-07-orange .theme-p-title {
+  color: #858585
+}
+.feel-modern .swatch-07-orange .theme-small-title {
+  color: #858585
+}
+.feel-modern .swatch-07-orange .widget-event .theme-p-title {
+  color: #ffa766
+}
+.feel-modern .swatch-07-orange>.swatch-thumbnail {
+  background: #ff6d00
+}
+.feel-modern .swatch-08-red .colored-background {
+  background: #f23131
+}
+.feel-modern .swatch-08-red .theme-p-title {
+  color: #828282
+}
+.feel-modern .swatch-08-red .theme-small-title {
+  color: #828282
+}
+.feel-modern .swatch-08-red .widget-event .theme-p-title {
+  color: rgb(97.276%,56.841%,56.841%)
+}
+.feel-modern .swatch-08-red>.swatch-thumbnail {
+  background: #f23131
+}
+.feel-modern .swatch-09-light-brown .colored-background {
+  background: #b6773f
+}
+.feel-modern .swatch-09-light-brown .theme-p-title {
+  color: #828282
+}
+.feel-modern .swatch-09-light-brown .theme-small-title {
+  color: #828282
+}
+.feel-modern .swatch-09-light-brown .widget-event .theme-p-title {
+  color: rgb(83.563%,67.126%,52.515%)
+}
+.feel-modern .swatch-09-light-brown>.swatch-thumbnail {
+  background: #b6773f
+}
+.feel-modern .swatch-10-brown .colored-background {
+  background: #845c39
+}
+.feel-modern .swatch-10-brown .theme-p-title {
+  color: #828282
+}
+.feel-modern .swatch-10-brown .theme-small-title {
+  color: #828282
+}
+.feel-modern .swatch-10-brown .widget-event .theme-p-title {
+  color: rgb(74.099%,55.923%,40.019%)
+}
+.feel-modern .swatch-10-brown>.swatch-thumbnail {
+  background: #845c39
+}
+.feel-modern .swatch-11-dark-purple .colored-background {
+  background: #894aa2
+}
+.feel-modern .swatch-11-dark-purple .theme-p-title {
+  color: #894aa2
+}
+.feel-modern .swatch-11-dark-purple .theme-small-title {
+  color: #894aa2
+}
+.feel-modern .swatch-11-dark-purple .widget-event .theme-p-title {
+  color: rgb(71.705%,53.699%,78.85%)
+}
+.feel-modern .swatch-11-dark-purple>.swatch-thumbnail {
+  background: #894aa2
+}
+.feel-modern .swatch-12-purple .colored-background {
+  background: #9e64d4
+}
+.feel-modern .swatch-12-purple .theme-p-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-12-purple .theme-small-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-12-purple .widget-event .theme-p-title {
+  color: rgb(81.557%,70.529%,91.824%)
+}
+.feel-modern .swatch-12-purple>.swatch-thumbnail {
+  background: #9e64d4
+}
+.feel-modern .swatch-13-pink .colored-background {
+  background: #ff2861
+}
+.feel-modern .swatch-13-pink .theme-p-title {
+  color: rgb(95.686%,0%,25.368%)
+}
+.feel-modern .swatch-13-pink .theme-small-title {
+  color: rgb(95.686%,0%,25.368%)
+}
+.feel-modern .swatch-13-pink .widget-event .theme-p-title {
+  color: rgb(100%,55.686%,67.435%)
+}
+.feel-modern .swatch-13-pink>.swatch-thumbnail {
+  background: #ff2861
+}
+.feel-modern .swatch-14-gray .colored-background {
+  background: #5e5e5e
+}
+.feel-modern .swatch-14-gray .theme-p-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-14-gray .theme-small-title {
+  color: #5e5e5e
+}
+.feel-modern .swatch-14-gray .widget-event .theme-p-title {
+  color: #ababab
+}
+.feel-modern .swatch-14-gray>.swatch-thumbnail {
+  background: #5e5e5e
+}
